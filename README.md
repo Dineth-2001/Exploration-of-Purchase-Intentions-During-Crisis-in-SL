@@ -24,13 +24,13 @@ During times of national or economic crisis, consumer behavior tends to shift si
 ---
 
 ## Repository Structure
-├── Datasets/
-│ ├── Original_Dataset.xlsx 
-│ └── Preprocessed_Datasets/ # Contains the preprocessed datasets
-│
-├── Notebooks/
-│ ├── Data Preprocessing/
-│ ├── DDA/
+├── Datasets/  <br>
+│ ├── Original_Dataset.xlsx  <br>
+│ └── Preprocessed_Datasets/ # Contains the preprocessed datasets <br>
+│ <br>
+├── Notebooks/ <br>
+│ ├── Data Preprocessing/ <br>
+│ ├── DDA/ <br>
 │ ├── EDA/
 │ └── Hypothesis Testing/
 │ └── Rule Mining/
