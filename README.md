@@ -24,20 +24,20 @@ During times of national or economic crisis, consumer behavior tends to shift si
 ---
 
 ## Repository Structure
-├── Datasets/  <br>
-│ ├── Original_Dataset.xlsx  <br>
+├── Datasets/ <br>
+│ ├── Original_Dataset.xlsx <br>
 │ └── Preprocessed_Datasets/ # Contains the preprocessed datasets <br>
 │ <br>
 ├── Notebooks/ <br>
 │ ├── Data Preprocessing/ <br>
 │ ├── DDA/ <br>
-│ ├── EDA/
-│ └── Hypothesis Testing/
-│ └── Rule Mining/
-│
-├── Exploration_of_Factors_Influencing_Consumers’_Online_Purchase_Intentions_During_Crises_in_Sri_Lanka.pdf
-│
-└── README.md
+│ ├── EDA/ <br>
+│ └── Hypothesis Testing/ <br>
+│ └── Rule Mining/ <br>
+│ <br>
+├── Exploration_of_Factors_Influencing_Consumers’_Online_Purchase_Intentions_During_Crises_in_Sri_Lanka.pdf <br>
+│ <br>
+└── README.md <br>
 
 
 ---
